@@ -9,27 +9,27 @@ This project classifies tweets into three categories using Natural Language Proc
 
 The model is built using TF-IDF for text vectorization and Linear Support Vector Classifier (SVM) for classification. 
 
-Steps in the Project
+## Steps in the Project
 
-Load and clean text data
+- Load and clean text data
 
-Remove links, mentions and hashtags
+- Remove links, mentions and hashtags
 
-Tokenize text
+- Tokenize text
 
-Remove stopwords and lemmatize
+- Remove stopwords and lemmatize
 
-Convert text to vectors using TF-IDF
+- Convert text to vectors using TF-IDF
 
-Split into train and test sets
+- Split into train and test sets
 
-Train Linear SVC model
+- Train Linear SVC model
 
-Evaluate performance
+- Evaluate performance
 
-Predict on custom input text
+- Predict on custom input text
 
-Model Performance
+## Model Performance
 
 Accuracy: ~88%
 
